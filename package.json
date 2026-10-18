@@ -1,0 +1,8 @@
+{
+  "name": "ganger-pr-test",
+  "version": "1.0.0",
+  "description": "A throwaway repository for testing Ganger's pull requests.",
+  "main": "index.js",
+  "scripts": { "test": "node test.js" },
+  "license": "MIT"
+}
